@@ -1,9 +1,5 @@
 /*
- * Name: Yifeng Hua
- * UserId: cs100wgc
- * Programming Assignment 3
  * Purpose: the graph header file that defines all variables and functions
- * Source of Help: none
  */
 #ifndef GRAPH_HPP
 #define GRAPH_HPP
