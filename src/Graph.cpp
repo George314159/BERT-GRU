@@ -1,11 +1,6 @@
 /*
- * Name: Yifeng Hua
- * UserId: cs100wgc
- * Programming Assignment 3
  * Purpose: the graph file that can form an undirected and weighted graph and
  *          could find a shortest path between two specific IDs.
- * Date: March 4
- * Source of Help: none
  */
 #include "Graph.hpp"
 #include <algorithm>
