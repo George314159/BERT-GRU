@@ -1,10 +1,5 @@
 /*
- * Name: Yifeng Hua
- * UserId: cs100wgc
- * Programming Assignment 3
- * Data: March 4
  * Purpose: the node head file that includes members of a node object
- * Source of Help: none
  */
 #ifndef NODE_HPP
 #define NODE_HPP
