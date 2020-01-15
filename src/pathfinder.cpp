@@ -1,14 +1,9 @@
 /*
- * Name: Yifeng Hua
- * UserId: cs100wgc
- * Programming Assignment 3
  * File: pathfinder.c
- * Date: March 4
  * Purpose: launch the pathfinder program , handle the parameters from command
  * line, and call the functions in the Graph.cpp. The whole program will 
  * create an undirected and weighted graph for user IDs and find shortest 
  * path between two specific users, and output the path to a new file.
- * Source of Help: none
  */
 #include <cstdlib>
 #include <cstring>
