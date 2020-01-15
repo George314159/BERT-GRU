@@ -1,0 +1,1 @@
+./build/part3 ./shortened.txt ./shortened_pairs.txt ./output.txt
