@@ -36,7 +36,7 @@ We use Grid Search to find the best set of hyperparameters for our model. Specif
 
 
 
-### Contributors
+## Contributors
 
 * **Yifeng Hua** - *Initial work* 
 * **Xiang Lu** - *Initial work* 
